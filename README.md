@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align='center'>
+  <a href="#" style="cursor: default"><img src="https://badges.pufler.dev/visits/micaelillos/micaelillos"></a> 
+</p>
+
