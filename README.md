@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='center'>
-  <a href="#" style="cursor: default"><img src="https://badges.pufler.dev/visits/ZhaoyangZh/ZhaoyangZh"></a> 
-</p>
+🌞
 
